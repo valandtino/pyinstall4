@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+
+<img src="image.png" alt="this is a image">
+<em>emphasize</em>
+
+<style>
+.line  {
+	font-size: 10px ;
+}
+
+<p class='line'> Hello World
+</p>
